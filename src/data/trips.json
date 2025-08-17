@@ -1,0 +1,68 @@
+[
+  {
+    "id": "B1001",
+    "mode": "bus",
+    "operator": "JetLine Travels",
+    "from": "Chennai",
+    "to": "Bengaluru",
+    "departure": "08:00",
+    "arrival": "14:15",
+    "price": 850,
+    "totalSeats": 40
+  },
+  {
+    "id": "B1002",
+    "mode": "bus",
+    "operator": "Green Express",
+    "from": "Chennai",
+    "to": "Bengaluru",
+    "departure": "22:30",
+    "arrival": "06:00",
+    "price": 950,
+    "totalSeats": 40
+  },
+  {
+    "id": "B2001",
+    "mode": "bus",
+    "operator": "Pondi Breeze",
+    "from": "Chennai",
+    "to": "Pondicherry",
+    "departure": "07:00",
+    "arrival": "10:00",
+    "price": 420,
+    "totalSeats": 36
+  },
+  {
+    "id": "T3001",
+    "mode": "train",
+    "operator": "InterCity Express",
+    "from": "Chennai",
+    "to": "Bengaluru",
+    "departure": "07:30",
+    "arrival": "13:00",
+    "price": 620,
+    "totalSeats": 72
+  },
+  {
+    "id": "T3002",
+    "mode": "train",
+    "operator": "Shatabdi",
+    "from": "Chennai",
+    "to": "Bengaluru",
+    "departure": "17:00",
+    "arrival": "21:30",
+    "price": 980,
+    "totalSeats": 72
+  },
+  {
+    "id": "T4001",
+    "mode": "train",
+    "operator": "Deccan Mail",
+    "from": "Chennai",
+    "to": "Hyderabad",
+    "departure": "20:30",
+    "arrival": "06:45",
+    "price": 750,
+    "totalSeats": 72
+  }
+]
